@@ -1,0 +1,23 @@
+*ERROR* 	v1.7.6.5	2020/05/11 - 00:10:24: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 00:31:05: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 00:31:40: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 00:37:08: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 00:45:02: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 00:50:02: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 00:50:08: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 00:51:04: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:04:43: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:09:35: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:15:10: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:16:50: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:18:43: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:22:11: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:35:21: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:35:26: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:35:43: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:49:41: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:53:03: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:53:12: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection timed out at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:54:47: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;prestauser&#039;@&#039;172.17.0.2&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:54:52: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;prestauser&#039;@&#039;172.17.0.2&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/05/11 - 01:54:55: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;prestauser&#039;@&#039;172.17.0.2&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
